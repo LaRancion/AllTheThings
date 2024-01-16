@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "3c57872b73c91d26",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dfdee30fc0f9ffa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8558ae9c62ac576c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "aac9fc1e5496b38c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "71944d183b7c6d6b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a5efc95f7415133",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "30b8a24d649d3c12",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "26fbdfd510b98435",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f81a8f1451334bc4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "954db40ba18c7a86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "InternalAllTheThings/README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4a906442c1c934d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cab408bb1ea6e79",
+        "type": "tabs",
+        "dimension": 54.67557251908397,
+        "children": [
+          {
+            "id": "f7a391ebdeb53cd7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63077942652e54a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "upgrade",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "62b34122d7834318",
+        "type": "tabs",
+        "dimension": 45.32442748091603,
+        "children": [
+          {
+            "id": "c092310f0b215170",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e2b66558db74eeb",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "InternalAllTheThings/README.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.428217815261174,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "right": {
+    "id": "8b0b7dd5a3b0d0cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e721870d5fdbdd0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebbb197dc94ce619",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "InternalAllTheThings/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fff0ed6fa5878de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "InternalAllTheThings/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c49d1a97e3ef0505",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b46dc2b8433f76e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "InternalAllTheThings/README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "954db40ba18c7a86",
+  "lastOpenFiles": [
+    "InternalAllTheThings/docs/README.md",
+    "InternalAllTheThings/README.md",
+    "HardwareAllTheThings/README.md",
+    "InternalAllTheThings/assets/banner.png",
+    "InternalAllTheThings/docs/active-directory/ad-adcs-certificate-services.md",
+    "InternalAllTheThings/docs/active-directory/CVE/MS14-068.md",
+    "HOME.md",
+    "PayloadsAllTheThings/OAuth Misconfiguration/OAuth Misconfiguration.md",
+    "PayloadsAllTheThings/NoSQL Injection/NoSQL Injection.md",
+    "PayloadsAllTheThings/NoSQL Injection/Intruder/NoSQL.md",
+    "InternalAllTheThings/docs/active-directory/CVE/ZeroLogon.md",
+    "InternalAllTheThings/docs/active-directory/CVE/PrintNightmare.md",
+    "InternalAllTheThings/docs/active-directory/CVE/NoPAC.md",
+    "PayloadsAllTheThings/PAYLOAD ALL THE THINGS.md",
+    "PayloadsAllTheThings/Web Cache Deception/Intruders/param_miner_lowercase_headers.md",
+    "PayloadsAllTheThings/Upload Insecure Files/EICAR/eicar.md",
+    "PayloadsAllTheThings/XSS Injection/Intruders/RSNAKE_XSS.md",
+    "PayloadsAllTheThings/XSS Injection/Intruders/IntrudersXSS.md",
+    "PayloadsAllTheThings/XSS Injection/Intruders/XSS_Polyglots.md",
+    "PayloadsAllTheThings/XSS Injection/Intruders/xss_alert.md",
+    "PayloadsAllTheThings/XSS Injection/Intruders/MarioXSSVectors.md",
+    "PayloadsAllTheThings/XSS Injection/Intruders/xss_swf_fuzz.md",
+    "PayloadsAllTheThings/XSS Injection/Intruders/xss_payloads_quick.md",
+    "PayloadsAllTheThings/XSS Injection/Intruders/0xcela_event_handlers.md",
+    "PayloadsAllTheThings/XSS Injection/Intruders/BRUTELOGIC-XSS-STRINGS.md",
+    "PayloadsAllTheThings/XSS Injection/Intruders/XSSDetection.md",
+    "PayloadsAllTheThings/XSS Injection/Intruders/BRUTELOGIC-XSS-JS.md",
+    "PayloadsAllTheThings/script.py",
+    "PayloadsAllTheThings/GraphQL Injection/Images/htb-help.png",
+    "PayloadsAllTheThings/script.sh",
+    "PayloadsAllTheThings/XSS Injection/Images/DwrkbH1VAAErOI2.jpg",
+    "writeups",
+    "mappe",
+    "Calendario",
+    "attachments/Wrappers+-+2023-09-03+07.51.53.pdf",
+    "attachments/Triage+-+2023-04-15+06.22.51.pdf",
+    "attachments/Pasted image 20231130153951.png",
+    "attachments/lnkparser.png",
+    "attachments/letsdefend_Incident_sharepoint.png",
+    "attachments/Installers+-+2023-09-03+08.13.53.pdf",
+    "attachments/inetsim.gif",
+    "attachments/discordTokenstealer.Script.wrapper.png",
+    "attachments/binary_wrappers.png",
+    "attachments/b2eStrings_wrapper.png",
+    "attachments/AV+Detection+Names+-+2023-08-28+10.43.52.pdf",
+    "attachments",
+    "attack chain.canvas",
+    "Knowledge/risorse/attack chain 1.canvas",
+    "Knowledge/risorse/attack chain.canvas",
+    "AbouTrust/Untitled.canvas"
+  ]
+}

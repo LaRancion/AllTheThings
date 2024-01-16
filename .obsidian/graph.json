@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#networking  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#redteam/phishing  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#ctf  ",
+      "color": {
+        "a": 1,
+        "rgb": 716814
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.19739583333333,
+  "lineSizeMultiplier": 2.43093271964262,
+  "collapse-forces": false,
+  "centerStrength": 0.488696358467578,
+  "repelStrength": 15.8212058212058,
+  "linkStrength": 0.803534303534304,
+  "linkDistance": 269,
+  "scale": 0.14253345538535672,
+  "close": false
+}
