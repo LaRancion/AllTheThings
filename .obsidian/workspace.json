@@ -69,8 +69,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InternalAllTheThings/README.md",
-                "mode": "source",
+                "file": "PayloadsAllTheThings/XSS Injection/XSS Injection.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "upgrade",
+                "query": "document.cookie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "62b34122d7834318",
@@ -137,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "InternalAllTheThings/README.md",
+                "file": "PayloadsAllTheThings/XSS Injection/XSS Injection.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InternalAllTheThings/README.md",
+                "file": "PayloadsAllTheThings/XSS Injection/XSS Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InternalAllTheThings/README.md",
+                "file": "PayloadsAllTheThings/XSS Injection/XSS Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InternalAllTheThings/README.md"
+                "file": "PayloadsAllTheThings/XSS Injection/XSS Injection.md"
               }
             }
           }
@@ -252,9 +253,15 @@
   },
   "active": "954db40ba18c7a86",
   "lastOpenFiles": [
+    "PayloadsAllTheThings/XSS Injection/XSS with Relative Path Overwrite.md",
+    "PayloadsAllTheThings/XSS Injection/XSS Injection.md",
+    "PayloadsAllTheThings/Prompt Injection/Prompt Injection.md",
+    "PayloadsAllTheThings/Upload Insecure Files/Extension PDF JS/README.md",
+    "PayloadsAllTheThings/XSS Injection/Intruders/JHADDIX_XSS.md",
+    "PayloadsAllTheThings/Dom Clobbering/Dom Clobbering.md",
+    "InternalAllTheThings/Internal All The Things.md",
     "InternalAllTheThings/docs/README.md",
-    "InternalAllTheThings/README.md",
-    "HardwareAllTheThings/README.md",
+    "HardwareAllTheThings/Hardware All The Things.md",
     "InternalAllTheThings/assets/banner.png",
     "InternalAllTheThings/docs/active-directory/ad-adcs-certificate-services.md",
     "InternalAllTheThings/docs/active-directory/CVE/MS14-068.md",
@@ -273,12 +280,6 @@
     "PayloadsAllTheThings/XSS Injection/Intruders/XSS_Polyglots.md",
     "PayloadsAllTheThings/XSS Injection/Intruders/xss_alert.md",
     "PayloadsAllTheThings/XSS Injection/Intruders/MarioXSSVectors.md",
-    "PayloadsAllTheThings/XSS Injection/Intruders/xss_swf_fuzz.md",
-    "PayloadsAllTheThings/XSS Injection/Intruders/xss_payloads_quick.md",
-    "PayloadsAllTheThings/XSS Injection/Intruders/0xcela_event_handlers.md",
-    "PayloadsAllTheThings/XSS Injection/Intruders/BRUTELOGIC-XSS-STRINGS.md",
-    "PayloadsAllTheThings/XSS Injection/Intruders/XSSDetection.md",
-    "PayloadsAllTheThings/XSS Injection/Intruders/BRUTELOGIC-XSS-JS.md",
     "PayloadsAllTheThings/script.py",
     "PayloadsAllTheThings/GraphQL Injection/Images/htb-help.png",
     "PayloadsAllTheThings/script.sh",
